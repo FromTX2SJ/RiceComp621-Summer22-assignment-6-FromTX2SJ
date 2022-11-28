@@ -1,0 +1,1134 @@
+Attaching 1 probe...
+304.17 KBytes/sec
+
+
+@[systemd-logind]: 1
+@[systemd-journal]: 1
+@[gsd-color]: 2
+@[systemd]: 4
+@[rtkit-daemon]: 7
+@[gdbus]: 15
+@[gsd-housekeepin]: 36
+@[getconf]: 44
+@[df]: 45
+@[awk]: 80
+@[avahi-daemon]: 108
+@[sh]: 112
+@[irqbalance]: 114
+@[tmux: server]: 224
+@[date]: 280
+@[gnome-terminal-]: 280
+@[Xorg]: 283
+@[gnome-shell]: 515
+@[InputThread]: 573
+@[mv]: 869
+@[sed]: 1232
+@[tmux]: 1232
+@[stat]: 2016
+@[byobu-status]: 363480
+@[ipc-static]: 16777216
+
+Attaching 1 probe...
+613.83 KBytes/sec
+
+
+@[systemd-timesyn]: 1
+@[systemd-journal]: 1
+@[systemd-udevd]: 1
+@[gmain]: 2
+@[systemd]: 4
+@[rtkit-daemon]: 4
+@[df]: 18
+@[bash]: 19
+@[getconf]: 24
+@[awk]: 32
+@[irqbalance]: 57
+@[sh]: 58
+@[tmux: server]: 114
+@[date]: 140
+@[Xorg]: 187
+@[InputThread]: 374
+@[mv]: 429
+@[gnome-shell]: 471
+@[nano]: 557
+@[sed]: 638
+@[tmux]: 638
+@[gnome-terminal-]: 838
+@[stat]: 1028
+@[byobu-status]: 187132
+@[ipc-static]: 8388608
+
+Attaching 1 probe...
+1219.04 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gsd-power]: 2
+@[gsd-color]: 2
+@[rtkit-daemon]: 2
+@[bash]: 3
+@[upowerd]: 4
+@[gdbus]: 5
+@[df]: 9
+@[getconf]: 12
+@[awk]: 16
+@[sh]: 30
+@[gsd-housekeepin]: 36
+@[irqbalance]: 38
+@[tmux: server]: 60
+@[date]: 75
+@[Xorg]: 106
+@[gnome-shell]: 201
+@[InputThread]: 212
+@[nano]: 222
+@[mv]: 242
+@[sed]: 330
+@[tmux]: 330
+@[gnome-terminal-]: 424
+@[stat]: 540
+@[byobu-status]: 97339
+@[ipc-static]: 4194304
+
+Attaching 1 probe...
+2413.02 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[rtkit-daemon]: 2
+@[gmain]: 2
+@[systemd]: 2
+@[avahi-daemon]: 6
+@[getconf]: 8
+@[df]: 9
+@[awk]: 16
+@[sh]: 18
+@[gnome-shell]: 20
+@[tmux: server]: 36
+@[date]: 45
+@[gnome-terminal-]: 48
+@[mv]: 154
+@[sed]: 198
+@[tmux]: 198
+@[stat]: 324
+@[byobu-status]: 58457
+@[ipc-static]: 2097152
+
+Attaching 1 probe...
+4825.49 KBytes/sec
+
+
+@[ibus-portal]: 1
+@[gnome-keyring-d]: 1
+@[systemd-journal]: 1
+@[gmain]: 2
+@[getconf]: 4
+@[avahi-daemon]: 5
+@[gdbus]: 6
+@[threaded-ml]: 12
+@[sh]: 12
+@[gsd-media-keys]: 15
+@[alsa-sink-bcm28]: 18
+@[tmux: server]: 20
+@[bash]: 24
+@[date]: 25
+@[Xorg]: 32
+@[pulseaudio]: 34
+@[mv]: 55
+@[InputThread]: 64
+@[gnome-shell]: 75
+@[tmux]: 110
+@[gnome-terminal-]: 111
+@[sed]: 127
+@[stat]: 180
+@[byobu-status]: 32423
+@[ipc-static]: 1048576
+
+Attaching 1 probe...
+9382.09 KBytes/sec
+
+
+@[rtkit-daemon]: 1
+@[systemd-journal]: 1
+@[gmain]: 2
+@[getconf]: 4
+@[threaded-ml]: 5
+@[gsd-media-keys]: 5
+@[Xorg]: 6
+@[bash]: 7
+@[alsa-sink-bcm28]: 7
+@[sh]: 8
+@[df]: 9
+@[pulseaudio]: 10
+@[avahi-daemon]: 11
+@[InputThread]: 12
+@[tmux: server]: 16
+@[awk]: 16
+@[date]: 20
+@[gnome-shell]: 25
+@[gnome-terminal-]: 32
+@[mv]: 77
+@[tmux]: 88
+@[sed]: 88
+@[stat]: 144
+@[byobu-status]: 26052
+@[ipc-static]: 524288
+
+Attaching 1 probe...
+18811.20 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[Xorg]: 4
+@[getconf]: 4
+@[bash]: 6
+@[sh]: 6
+@[avahi-daemon]: 6
+@[InputThread]: 8
+@[threaded-ml]: 9
+@[tmux: server]: 12
+@[alsa-sink-bcm28]: 15
+@[gsd-media-keys]: 15
+@[date]: 15
+@[gnome-terminal-]: 24
+@[gnome-shell]: 30
+@[pulseaudio]: 30
+@[mv]: 33
+@[sed]: 66
+@[tmux]: 66
+@[stat]: 108
+@[byobu-status]: 19415
+@[ipc-static]: 262144
+
+Attaching 1 probe...
+37227.52 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gmain]: 2
+@[Xorg]: 5
+@[avahi-daemon]: 5
+@[sh]: 6
+@[bash]: 7
+@[InputThread]: 10
+@[tmux: server]: 12
+@[date]: 15
+@[gnome-shell]: 17
+@[mv]: 44
+@[gnome-terminal-]: 63
+@[sed]: 66
+@[tmux]: 66
+@[stat]: 108
+@[nano]: 111
+@[byobu-status]: 19449
+@[ipc-static]: 131072
+
+Attaching 1 probe...
+70642.68 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[ibus-portal]: 1
+@[gnome-keyring-d]: 1
+@[alsa-sink-bcm28]: 2
+@[gmain]: 2
+@[getconf]: 4
+@[gsd-media-keys]: 5
+@[avahi-daemon]: 6
+@[gdbus]: 6
+@[sh]: 6
+@[date]: 10
+@[tmux: server]: 10
+@[gnome-shell]: 14
+@[pulseaudio]: 15
+@[gnome-terminal-]: 16
+@[mv]: 44
+@[sed]: 66
+@[tmux]: 66
+@[stat]: 90
+@[byobu-status]: 18436
+@[ipc-static]: 65536
+
+Attaching 1 probe...
+137490.50 KBytes/sec
+
+
+@[rtkit-daemon]: 1
+@[systemd-journal]: 1
+@[gmain]: 2
+@[sh]: 4
+@[avahi-daemon]: 5
+@[gnome-shell]: 6
+@[tmux: server]: 8
+@[gnome-terminal-]: 8
+@[df]: 9
+@[date]: 10
+@[awk]: 16
+@[irqbalance]: 19
+@[sed]: 44
+@[tmux]: 44
+@[mv]: 44
+@[stat]: 72
+@[byobu-status]: 13096
+@[ipc-static]: 32768
+
+Attaching 1 probe...
+263212.26 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gmain]: 2
+@[getconf]: 4
+@[sh]: 6
+@[gnome-shell]: 9
+@[tmux: server]: 12
+@[date]: 15
+@[gnome-terminal-]: 20
+@[mv]: 55
+@[tmux]: 66
+@[sed]: 66
+@[stat]: 108
+@[ipc-static]: 16384
+@[byobu-status]: 19451
+
+Attaching 1 probe...
+393629.51 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gmain]: 2
+@[sh]: 4
+@[avahi-daemon]: 5
+@[gnome-shell]: 6
+@[tmux: server]: 8
+@[date]: 10
+@[gnome-terminal-]: 12
+@[mv]: 22
+@[tmux]: 44
+@[sed]: 44
+@[stat]: 72
+@[ipc-static]: 8192
+@[byobu-status]: 12954
+
+Attaching 1 probe...
+825193.41 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[rtkit-daemon]: 1
+@[gmain]: 2
+@[getconf]: 4
+@[sh]: 4
+@[gnome-shell]: 4
+@[tmux: server]: 12
+@[gnome-terminal-]: 12
+@[date]: 15
+@[mv]: 33
+@[sed]: 44
+@[tmux]: 66
+@[stat]: 108
+@[ipc-static]: 4096
+@[byobu-status]: 19337
+
+Attaching 1 probe...
+526089.42 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gmain]: 2
+@[gnome-shell]: 2
+@[sh]: 4
+@[tmux: server]: 8
+@[gnome-terminal-]: 8
+@[date]: 10
+@[irqbalance]: 19
+@[mv]: 22
+@[sed]: 44
+@[tmux]: 44
+@[stat]: 72
+@[ipc-static]: 2048
+@[byobu-status]: 12954
+
+Attaching 1 probe...
+636837.03 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[rtkit-daemon]: 1
+@[gmain]: 2
+@[gnome-shell]: 4
+@[sh]: 4
+@[getconf]: 4
+@[df]: 9
+@[tmux: server]: 10
+@[gnome-terminal-]: 13
+@[date]: 15
+@[awk]: 16
+@[sed]: 59
+@[tmux]: 66
+@[mv]: 73
+@[stat]: 108
+@[ipc-static]: 1024
+@[byobu-status]: 19242
+
+Attaching 1 probe...
+492689.66 KBytes/sec
+
+
+@[systemd-network]: 1
+@[systemd-logind]: 1
+@[systemd-journal]: 1
+@[gmain]: 2
+@[gnome-shell]: 3
+@[sh]: 4
+@[systemd]: 4
+@[tmux: server]: 8
+@[date]: 10
+@[gnome-terminal-]: 12
+@[mv]: 22
+@[sed]: 44
+@[tmux]: 44
+@[stat]: 72
+@[ipc-static]: 512
+@[byobu-status]: 12954
+
+Attaching 1 probe...
+455541.09 KBytes/sec
+
+
+@[rtkit-daemon]: 1
+@[systemd-journal]: 1
+@[gmain]: 2
+@[gnome-shell]: 4
+@[getconf]: 4
+@[sh]: 6
+@[tmux: server]: 10
+@[date]: 15
+@[gnome-terminal-]: 16
+@[mv]: 33
+@[tmux]: 66
+@[sed]: 66
+@[stat]: 108
+@[ipc-static]: 256
+@[byobu-status]: 19319
+
+Attaching 1 probe...
+375612.83 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gmain]: 2
+@[gnome-shell]: 3
+@[sh]: 4
+@[tmux: server]: 8
+@[date]: 10
+@[gnome-terminal-]: 12
+@[irqbalance]: 19
+@[mv]: 22
+@[sed]: 44
+@[tmux]: 44
+@[stat]: 72
+@[ipc-static]: 128
+@[byobu-status]: 12954
+
+Attaching 1 probe...
+338292.59 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gmain]: 2
+@[gnome-shell]: 3
+@[getconf]: 4
+@[sh]: 6
+@[tmux: server]: 8
+@[date]: 10
+@[gnome-terminal-]: 12
+@[mv]: 33
+@[ipc-static]: 64
+@[sed]: 66
+@[tmux]: 66
+@[stat]: 72
+@[byobu-status]: 13168
+
+Attaching 1 probe...
+327134.42 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[rtkit-daemon]: 1
+@[gmain]: 2
+@[gnome-shell]: 2
+@[sh]: 4
+@[tmux: server]: 8
+@[gnome-terminal-]: 8
+@[date]: 10
+@[mv]: 22
+@[ipc-static]: 32
+@[gsd-housekeepin]: 36
+@[sed]: 44
+@[tmux]: 44
+@[stat]: 72
+@[byobu-status]: 12954
+
+Attaching 1 probe...
+323327.03 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gmain]: 2
+@[gsd-color]: 2
+@[gnome-shell]: 3
+@[getconf]: 4
+@[sh]: 6
+@[tmux: server]: 8
+@[df]: 9
+@[date]: 10
+@[avahi-daemon]: 11
+@[gnome-terminal-]: 15
+@[awk]: 16
+@[ipc-static]: 16
+@[tmux]: 44
+@[sed]: 44
+@[mv]: 66
+@[stat]: 72
+@[byobu-status]: 13118
+
+Attaching 1 probe...
+304942.79 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gnome-shell]: 2
+@[ionice]: 3
+@[renice]: 3
+@[flock]: 5
+@[sh]: 5
+@[systemd]: 7
+@[gnome-terminal-]: 8
+@[ipc-static]: 8
+@[tmux: server]: 8
+@[date]: 10
+@[gmain]: 14
+@[awk]: 16
+@[irqbalance]: 19
+@[mv]: 33
+@[dpkg]: 39
+@[sed]: 44
+@[tmux]: 44
+@[stat]: 72
+@[apt-check]: 592
+@[byobu-status]: 12954
+
+Attaching 1 probe...
+286345.84 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[rtkit-daemon]: 1
+@[gmain]: 2
+@[getconf]: 4
+@[ipc-static]: 4
+@[gnome-shell]: 4
+@[sh]: 6
+@[tmux: server]: 10
+@[date]: 10
+@[gnome-terminal-]: 16
+@[mv]: 33
+@[tmux]: 66
+@[sed]: 66
+@[stat]: 108
+@[byobu-status]: 18421
+
+Attaching 1 probe...
+273241.02 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[ipc-static]: 2
+@[gmain]: 2
+@[gnome-shell]: 3
+@[sh]: 4
+@[tmux: server]: 8
+@[date]: 10
+@[gnome-terminal-]: 12
+@[mv]: 22
+@[tmux]: 44
+@[sed]: 44
+@[stat]: 72
+@[byobu-status]: 12954
+
+1
+Attaching 1 probe...
+305.55 KBytes/sec
+
+
+@[systemd-logind]: 1
+@[systemd-timesyn]: 1
+@[systemd-udevd]: 1
+@[gsd-color]: 2
+@[gsd-power]: 2
+@[debian-sa1]: 4
+@[upowerd]: 4
+@[sa1]: 4
+@[NetworkManager]: 7
+@[rtkit-daemon]: 8
+@[gdbus]: 8
+@[systemd]: 10
+@[gmain]: 14
+@[df]: 36
+@[gsd-housekeepin]: 36
+@[getconf]: 44
+@[awk]: 64
+@[cron]: 83
+@[sadc]: 84
+@[nano]: 93
+@[Xorg]: 98
+@[sh]: 111
+@[irqbalance]: 114
+@[systemd-journal]: 131
+@[systemd-resolve]: 140
+@[InputThread]: 193
+@[tmux: server]: 220
+@[date]: 275
+@[gnome-shell]: 465
+@[gnome-terminal-]: 586
+@[mv]: 847
+@[tmux]: 1210
+@[sed]: 1210
+@[stat]: 1980
+@[byobu-status]: 356934
+@[ipc-static]: 16777216
+
+2
+Attaching 1 probe...
+601.29 KBytes/sec
+
+
+@[gsd-color]: 2
+@[systemd]: 4
+@[gmain]: 4
+@[NetworkManager]: 4
+@[rtkit-daemon]: 4
+@[getconf]: 24
+@[df]: 27
+@[gsd-housekeepin]: 36
+@[awk]: 48
+@[irqbalance]: 57
+@[sh]: 58
+@[systemd-journal]: 61
+@[systemd-resolve]: 80
+@[Xorg]: 99
+@[tmux: server]: 116
+@[date]: 145
+@[gnome-shell]: 187
+@[InputThread]: 198
+@[nano]: 225
+@[mv]: 473
+@[tmux]: 638
+@[sed]: 638
+@[gnome-terminal-]: 790
+@[stat]: 1044
+@[byobu-status]: 188336
+@[ipc-static]: 8388608
+
+4
+Attaching 1 probe...
+1202.27 KBytes/sec
+
+
+@[NetworkManager]: 2
+@[rtkit-daemon]: 2
+@[gmain]: 4
+@[df]: 9
+@[getconf]: 12
+@[awk]: 16
+@[irqbalance]: 19
+@[systemd-journal]: 31
+@[sh]: 32
+@[systemd-resolve]: 40
+@[tmux: server]: 64
+@[Xorg]: 69
+@[date]: 80
+@[gnome-shell]: 108
+@[InputThread]: 136
+@[nano]: 162
+@[mv]: 242
+@[tmux]: 352
+@[sed]: 352
+@[gnome-terminal-]: 531
+@[stat]: 576
+@[byobu-status]: 103800
+@[ipc-static]: 4194304
+
+8
+Attaching 1 probe...
+2447.22 KBytes/sec
+
+
+@[NetworkManager]: 1
+@[rtkit-daemon]: 2
+@[gmain]: 4
+@[getconf]: 8
+@[df]: 9
+@[awk]: 16
+@[systemd-journal]: 16
+@[sh]: 18
+@[irqbalance]: 19
+@[systemd-resolve]: 20
+@[gnome-shell]: 27
+@[tmux: server]: 36
+@[date]: 45
+@[gnome-terminal-]: 52
+@[mv]: 143
+@[sed]: 198
+@[tmux]: 198
+@[stat]: 324
+@[byobu-status]: 58448
+@[ipc-static]: 2097152
+
+16
+Attaching 1 probe...
+4637.44 KBytes/sec
+
+
+@[NetworkManager]: 1
+@[systemd]: 2
+@[getconf]: 4
+@[gmain]: 4
+@[sh]: 12
+@[systemd-journal]: 16
+@[irqbalance]: 19
+@[systemd-resolve]: 20
+@[tmux: server]: 24
+@[date]: 30
+@[Xorg]: 34
+@[gnome-shell]: 55
+@[InputThread]: 68
+@[mv]: 77
+@[nano]: 93
+@[sed]: 132
+@[tmux]: 132
+@[stat]: 216
+@[gnome-terminal-]: 267
+@[byobu-status]: 38870
+@[ipc-static]: 1048576
+
+32
+Attaching 1 probe...
+9771.86 KBytes/sec
+
+
+@[rtkit-daemon]: 1
+@[NetworkManager]: 1
+@[systemd]: 2
+@[getconf]: 4
+@[sh]: 6
+@[gmain]: 6
+@[snapd]: 10
+@[gnome-shell]: 11
+@[tmux: server]: 12
+@[date]: 15
+@[gnome-terminal-]: 16
+@[systemd-journal]: 16
+@[systemd-resolve]: 20
+@[mv]: 33
+@[sed]: 66
+@[tmux]: 66
+@[stat]: 108
+@[byobu-status]: 19418
+@[ipc-static]: 524288
+
+64
+Attaching 1 probe...
+16928.69 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gmain]: 2
+@[getconf]: 4
+@[sh]: 6
+@[df]: 9
+@[tmux: server]: 12
+@[date]: 15
+@[awk]: 16
+@[irqbalance]: 19
+@[Xorg]: 45
+@[mv]: 55
+@[gnome-shell]: 60
+@[sed]: 66
+@[tmux]: 66
+@[InputThread]: 90
+@[nano]: 105
+@[stat]: 108
+@[gnome-terminal-]: 352
+@[byobu-status]: 19560
+@[ipc-static]: 262144
+
+128
+Attaching 1 probe...
+38118.47 KBytes/sec
+
+
+@[rtkit-daemon]: 1
+@[systemd-journal]: 1
+@[gmain]: 2
+@[sh]: 6
+@[gnome-shell]: 10
+@[tmux: server]: 12
+@[date]: 15
+@[gnome-terminal-]: 20
+@[mv]: 44
+@[sed]: 66
+@[tmux]: 66
+@[stat]: 108
+@[byobu-status]: 19452
+@[ipc-static]: 131072
+
+256
+Attaching 1 probe...
+73673.11 KBytes/sec
+
+
+@[NetworkManager]: 1
+@[getconf]: 4
+@[sh]: 4
+@[gmain]: 6
+@[gnome-shell]: 6
+@[tmux: server]: 8
+@[gnome-terminal-]: 8
+@[date]: 10
+@[mv]: 11
+@[systemd-journal]: 16
+@[systemd-resolve]: 20
+@[tmux]: 44
+@[sed]: 44
+@[stat]: 72
+@[byobu-status]: 12922
+@[ipc-static]: 65536
+
+512
+Attaching 1 probe...
+135059.99 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[sh]: 4
+@[tmux: server]: 8
+@[date]: 10
+@[mv]: 22
+@[Xorg]: 25
+@[gnome-shell]: 43
+@[tmux]: 44
+@[sed]: 44
+@[InputThread]: 50
+@[nano]: 66
+@[stat]: 72
+@[gnome-terminal-]: 245
+@[byobu-status]: 12956
+@[ipc-static]: 32768
+
+1024
+Attaching 1 probe...
+248000.17 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gmain]: 2
+@[gnome-shell]: 4
+@[getconf]: 4
+@[sh]: 4
+@[tmux: server]: 8
+@[gnome-terminal-]: 8
+@[date]: 10
+@[irqbalance]: 19
+@[tmux]: 44
+@[mv]: 44
+@[sed]: 44
+@[stat]: 72
+@[byobu-status]: 12976
+@[ipc-static]: 16384
+
+2048
+Attaching 1 probe...
+398607.45 KBytes/sec
+
+
+@[NetworkManager]: 1
+@[sh]: 4
+@[gmain]: 6
+@[gnome-shell]: 6
+@[tmux: server]: 8
+@[gnome-terminal-]: 8
+@[df]: 9
+@[date]: 10
+@[awk]: 16
+@[systemd-journal]: 16
+@[systemd-resolve]: 20
+@[mv]: 44
+@[sed]: 44
+@[tmux]: 44
+@[stat]: 72
+@[ipc-static]: 8192
+@[byobu-status]: 13098
+
+4096
+Attaching 1 probe...
+754103.74 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gsd-color]: 2
+@[gmain]: 2
+@[getconf]: 4
+@[sh]: 6
+@[gnome-shell]: 7
+@[tmux: server]: 10
+@[gnome-terminal-]: 12
+@[date]: 15
+@[gsd-housekeepin]: 36
+@[mv]: 44
+@[tmux]: 66
+@[sed]: 66
+@[stat]: 108
+@[ipc-static]: 4096
+@[byobu-status]: 18624
+
+8192
+Attaching 1 probe...
+530182.06 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gmain]: 2
+@[sh]: 4
+@[tmux: server]: 8
+@[date]: 10
+@[mv]: 22
+@[Xorg]: 28
+@[gnome-shell]: 43
+@[sed]: 44
+@[tmux]: 44
+@[InputThread]: 56
+@[stat]: 72
+@[nano]: 78
+@[gnome-terminal-]: 273
+@[ipc-static]: 2048
+@[byobu-status]: 12956
+
+16384
+Attaching 1 probe...
+459985.79 KBytes/sec
+
+
+@[NetworkManager]: 1
+@[sh]: 4
+@[getconf]: 4
+@[gmain]: 6
+@[gnome-shell]: 7
+@[tmux: server]: 8
+@[date]: 10
+@[gnome-terminal-]: 12
+@[systemd-journal]: 16
+@[irqbalance]: 19
+@[systemd-resolve]: 20
+@[mv]: 33
+@[sed]: 44
+@[tmux]: 44
+@[stat]: 72
+@[ipc-static]: 1024
+@[byobu-status]: 12958
+
+32768
+Attaching 1 probe...
+587700.40 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[rtkit-daemon]: 1
+@[gmain]: 2
+@[sh]: 4
+@[gnome-shell]: 7
+@[tmux: server]: 8
+@[date]: 10
+@[gnome-terminal-]: 12
+@[mv]: 22
+@[tmux]: 44
+@[sed]: 44
+@[stat]: 72
+@[ipc-static]: 512
+@[byobu-status]: 12956
+
+65536
+Attaching 1 probe...
+292549.86 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gmain]: 2
+@[getconf]: 4
+@[sh]: 6
+@[tmux: server]: 8
+@[df]: 9
+@[date]: 10
+@[Xorg]: 15
+@[awk]: 16
+@[gnome-shell]: 24
+@[InputThread]: 30
+@[nano]: 32
+@[mv]: 55
+@[tmux]: 66
+@[sed]: 66
+@[stat]: 72
+@[gnome-terminal-]: 109
+@[ipc-static]: 256
+@[byobu-status]: 13581
+
+131072
+Attaching 1 probe...
+392197.45 KBytes/sec
+
+
+@[NetworkManager]: 1
+@[gmain]: 4
+@[sh]: 4
+@[gnome-shell]: 7
+@[tmux: server]: 8
+@[date]: 10
+@[gnome-terminal-]: 12
+@[systemd-journal]: 16
+@[systemd-resolve]: 20
+@[mv]: 22
+@[tmux]: 44
+@[sed]: 44
+@[stat]: 72
+@[ipc-static]: 128
+@[byobu-status]: 12956
+
+262144
+Attaching 1 probe...
+434482.42 KBytes/sec
+
+
+@[rtkit-daemon]: 1
+@[systemd-journal]: 1
+@[gmain]: 2
+@[getconf]: 4
+@[sh]: 6
+@[gnome-shell]: 8
+@[tmux: server]: 12
+@[date]: 15
+@[gnome-terminal-]: 16
+@[irqbalance]: 19
+@[mv]: 33
+@[ipc-static]: 64
+@[tmux]: 66
+@[sed]: 66
+@[stat]: 108
+@[byobu-status]: 19418
+
+524288
+Attaching 1 probe...
+332503.76 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[gmain]: 2
+@[sh]: 4
+@[gnome-shell]: 7
+@[tmux: server]: 8
+@[date]: 10
+@[gnome-terminal-]: 12
+@[mv]: 22
+@[ipc-static]: 32
+@[tmux]: 44
+@[sed]: 44
+@[stat]: 72
+@[byobu-status]: 12956
+
+1048576
+Attaching 1 probe...
+356842.54 KBytes/sec
+
+
+@[NetworkManager]: 1
+@[systemd]: 2
+@[getconf]: 4
+@[sh]: 6
+@[gmain]: 6
+@[tmux: server]: 12
+@[date]: 15
+@[ipc-static]: 16
+@[systemd-journal]: 16
+@[systemd-resolve]: 20
+@[Xorg]: 30
+@[gnome-shell]: 51
+@[mv]: 55
+@[InputThread]: 60
+@[sed]: 66
+@[tmux]: 66
+@[nano]: 93
+@[stat]: 108
+@[gnome-terminal-]: 339
+@[byobu-status]: 19454
+
+2097152
+Attaching 1 probe...
+309712.21 KBytes/sec
+
+
+@[rtkit-daemon]: 1
+@[systemd-journal]: 1
+@[gmain]: 2
+@[sh]: 4
+@[gnome-shell]: 6
+@[ipc-static]: 8
+@[tmux: server]: 8
+@[df]: 9
+@[date]: 10
+@[gnome-terminal-]: 12
+@[awk]: 16
+@[sed]: 44
+@[mv]: 44
+@[tmux]: 44
+@[stat]: 72
+@[byobu-status]: 13098
+
+4194304
+Attaching 1 probe...
+296184.51 KBytes/sec
+
+
+@[systemd-journal]: 1
+@[sh]: 4
+@[ipc-static]: 4
+@[getconf]: 4
+@[gnome-shell]: 8
+@[date]: 10
+@[tmux: server]: 10
+@[gnome-terminal-]: 16
+@[sed]: 44
+@[tmux]: 44
+@[mv]: 59
+@[stat]: 72
+@[byobu-status]: 13979
+
+8388608
+Attaching 1 probe...
+268608.91 KBytes/sec
+
+
+@[NetworkManager]: 1
+@[ipc-static]: 2
+@[sh]: 4
+@[gnome-shell]: 6
+@[gmain]: 6
+@[gnome-terminal-]: 8
+@[tmux: server]: 8
+@[date]: 10
+@[systemd-journal]: 16
+@[systemd-resolve]: 20
+@[mv]: 22
+@[sed]: 44
+@[tmux]: 44
+@[stat]: 72
+@[byobu-status]: 12956
+

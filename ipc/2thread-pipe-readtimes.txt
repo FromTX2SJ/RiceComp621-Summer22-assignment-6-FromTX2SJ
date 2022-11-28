@@ -1,0 +1,694 @@
+1
+Attaching 2 probes...
+160.57 KBytes/sec
+
+
+@ns[tmux: server]: 2129
+@ns[InputThread]: 2185
+@ns[systemd]: 2333
+@ns[systemd-resolve]: 2352
+@ns[snapd]: 2370
+@ns[gsd-housekeepin]: 2556
+@ns[stat]: 2759
+@ns[mv]: 2963
+@ns[df]: 3204
+@ns[sh]: 3371
+@ns[sed]: 3778
+@ns[bpftrace]: 3851
+@ns[date]: 4129
+@ns[tmux]: 4185
+@ns[byobu-status]: 4352
+@ns[gdbus]: 4981
+@ns[ipc-static]: 5018
+@ns[irqbalance]: 5574
+@ns[gnome-terminal-]: 5611
+@ns[gmain]: 5685
+@ns[bash]: 5963
+@ns[gsd-color]: 6444
+@ns[rtkit-daemon]: 7222
+@ns[systemd-logind]: 7462
+@ns[Xorg]: 8129
+@ns[systemd-timesyn]: 8870
+@ns[systemd-journal]: 9648
+@ns[NetworkManager]: 10852
+@ns[gnome-shell]: 11982
+@ns[getconf]: 46832
+@ns[awk]: 479969
+@ns[nano]: 298612855
+
+@start[260192]: 15389492697120
+
+2
+Attaching 2 probes...
+322.34 KBytes/sec
+
+
+@ns[tmux: server]: 2185
+@ns[upowerd]: 2277
+@ns[systemd]: 2278
+@ns[awk]: 2278
+@ns[systemd-resolve]: 2426
+@ns[gsd-housekeepin]: 2426
+@ns[df]: 2685
+@ns[mv]: 2833
+@ns[stat]: 2889
+@ns[sh]: 3277
+@ns[bpftrace]: 3759
+@ns[tmux]: 3963
+@ns[date]: 4092
+@ns[gsd-power]: 4740
+@ns[byobu-status]: 4833
+@ns[gdbus]: 5055
+@ns[ipc-static]: 5185
+@ns[irqbalance]: 5388
+@ns[sed]: 6426
+@ns[systemd-journal]: 7407
+@ns[rtkit-daemon]: 7574
+@ns[gsd-color]: 8056
+@ns[gnome-shell]: 8315
+@ns[systemd-udevd]: 8463
+@ns[gnome-terminal-]: 8536
+@ns[NetworkManager]: 8610
+@ns[gmain]: 12944
+@ns[getconf]: 17870
+
+@start[261980]: 15442732712108
+
+4
+Attaching 2 probes...
+645.25 KBytes/sec
+
+
+@ns[tmux: server]: 2260
+@ns[systemd]: 2278
+@ns[awk]: 2315
+@ns[systemd-resolve]: 2389
+@ns[InputThread]: 2407
+@ns[gsd-housekeepin]: 2407
+@ns[df]: 2704
+@ns[sh]: 2741
+@ns[stat]: 2796
+@ns[mv]: 3481
+@ns[date]: 4037
+@ns[tmux]: 4092
+@ns[bpftrace]: 4167
+@ns[ipc-static]: 4537
+@ns[byobu-status]: 5167
+@ns[irqbalance]: 5444
+@ns[sed]: 5518
+@ns[rtkit-daemon]: 6093
+@ns[systemd-timesyn]: 6704
+@ns[systemd-logind]: 7333
+@ns[systemd-journal]: 7648
+@ns[gsd-color]: 8037
+@ns[NetworkManager]: 8203
+@ns[gmain]: 8425
+@ns[gnome-shell]: 8462
+@ns[Xorg]: 8666
+@ns[gnome-terminal-]: 9204
+@ns[getconf]: 17851
+
+@start[262891]: 15470644692794
+
+8
+Attaching 2 probes...
+1299.78 KBytes/sec
+
+
+@ns[tmux: server]: 2093
+@ns[systemd-resolve]: 2334
+@ns[awk]: 2352
+@ns[systemd]: 2389
+@ns[df]: 2463
+@ns[sh]: 2834
+@ns[stat]: 2870
+@ns[mv]: 2944
+@ns[sed]: 3334
+@ns[bpftrace]: 3703
+@ns[tmux]: 3907
+@ns[date]: 4129
+@ns[gmain]: 4297
+@ns[ipc-static]: 4333
+@ns[byobu-status]: 5000
+@ns[irqbalance]: 5444
+@ns[rtkit-daemon]: 8167
+@ns[gnome-shell]: 8388
+@ns[systemd-journal]: 8482
+@ns[gnome-terminal-]: 8833
+@ns[NetworkManager]: 10388
+@ns[getconf]: 16833
+
+@start[263376]: 15485708694847
+
+16
+Attaching 2 probes...
+2541.85 KBytes/sec
+
+
+@ns[tmux: server]: 2222
+@ns[systemd-resolve]: 2371
+@ns[sh]: 2611
+@ns[systemd]: 2629
+@ns[stat]: 2796
+@ns[mv]: 2945
+@ns[awk]: 3000
+@ns[bpftrace]: 3666
+@ns[gmain]: 4203
+@ns[date]: 4222
+@ns[df]: 4370
+@ns[tmux]: 4481
+@ns[gdbus]: 4833
+@ns[ipc-static]: 4834
+@ns[byobu-status]: 5074
+@ns[irqbalance]: 5481
+@ns[InputThread]: 5611
+@ns[NetworkManager]: 6722
+@ns[sed]: 8408
+@ns[systemd-journal]: 8963
+@ns[rtkit-daemon]: 9037
+@ns[gnome-terminal-]: 10870
+@ns[gnome-shell]: 15389
+@ns[getconf]: 17574
+@ns[Xorg]: 20203
+
+@start[1467]: 15494657428750
+@start[1461]: 15494657539191
+@start[1639]: 15494658524704
+@start[263636]: 15494668806204
+
+32
+Attaching 2 probes...
+5122.99 KBytes/sec
+
+
+@ns[tmux: server]: 2111
+@ns[systemd-resolve]: 2352
+@ns[mv]: 2611
+@ns[sh]: 2797
+@ns[stat]: 2834
+@ns[bpftrace]: 3371
+@ns[gmain]: 4166
+@ns[ipc-static]: 4389
+@ns[date]: 4445
+@ns[tmux]: 4573
+@ns[byobu-status]: 5130
+@ns[irqbalance]: 5426
+@ns[InputThread]: 5555
+@ns[sed]: 7556
+@ns[NetworkManager]: 7629
+@ns[gdbus]: 7685
+@ns[gnome-shell]: 8222
+@ns[gnome-terminal-]: 10111
+@ns[systemd-journal]: 10389
+@ns[getconf]: 17500
+@ns[Xorg]: 19499
+@ns[rtkit-daemon]: 22648
+
+@start[263798]: 15500452729063
+
+64
+Attaching 2 probes...
+10091.89 KBytes/sec
+
+
+@ns[stat]: 2888
+@ns[mv]: 2889
+@ns[tmux: server]: 2907
+@ns[bpftrace]: 3796
+@ns[byobu-status]: 3926
+@ns[tmux]: 3963
+@ns[sh]: 4148
+@ns[date]: 4185
+@ns[ipc-static]: 4352
+@ns[sed]: 9592
+@ns[gnome-shell]: 10389
+@ns[gmain]: 11167
+@ns[gnome-terminal-]: 12759
+@ns[getconf]: 17536
+@ns[systemd-journal]: 20055
+
+@start[263969]: 15504494765884
+@start[263968]: 15504495348610
+@start[263970]: 15504496854554
+@start[263971]: 15504500492203
+@start[263972]: 15504502297991
+@start[263965]: 15504506573272
+@start[2087]: 15504507274144
+@start[1639]: 15504512442032
+@start[263973]: 15504534166226
+@start[263974]: 15504538783073
+@start[263975]: 15504543667543
+@start[263976]: 15504549003705
+@start[263977]: 15504554802170
+@start[263908]: 15504556507405
+@start[263966]: 15504556572903
+
+128
+Attaching 2 probes...
+19799.22 KBytes/sec
+
+
+@ns[tmux: server]: 2074
+@ns[sh]: 2759
+@ns[mv]: 2851
+@ns[stat]: 2907
+@ns[bpftrace]: 3629
+@ns[sed]: 3741
+@ns[tmux]: 4000
+@ns[date]: 4148
+@ns[ipc-static]: 4463
+@ns[byobu-status]: 5667
+@ns[gnome-terminal-]: 6055
+@ns[systemd-resolve]: 6870
+@ns[systemd-journal]: 7055
+@ns[gnome-shell]: 9519
+@ns[gmain]: 11611
+@ns[NetworkManager]: 26370
+
+@start[263979]: 15507952687442
+
+256
+Attaching 2 probes...
+38741.86 KBytes/sec
+
+
+@ns[tmux: server]: 2056
+@ns[sh]: 2834
+@ns[stat]: 2925
+@ns[sed]: 3444
+@ns[bpftrace]: 3648
+@ns[date]: 3796
+@ns[tmux]: 4019
+@ns[ipc-static]: 4370
+@ns[byobu-status]: 5129
+@ns[mv]: 5408
+@ns[gmain]: 6092
+@ns[gnome-shell]: 7907
+@ns[gnome-terminal-]: 9185
+@ns[irqbalance]: 15981
+@ns[getconf]: 22314
+@ns[systemd-journal]: 30166
+
+@start[264032]: 15510920703179
+
+512
+Attaching 2 probes...
+72736.10 KBytes/sec
+
+
+@ns[sh]: 3463
+@ns[mv]: 3981
+@ns[stat]: 4204
+@ns[tmux]: 4370
+@ns[sed]: 4481
+@ns[ipc-static]: 4685
+@ns[bpftrace]: 4796
+@ns[date]: 6389
+@ns[byobu-status]: 6444
+@ns[systemd]: 7111
+@ns[gnome-shell]: 11018
+@ns[gmain]: 12426
+@ns[gnome-terminal-]: 13055
+@ns[systemd-journal]: 20203
+@ns[systemd-udevd]: 24944
+@ns[rtkit-daemon]: 25592
+@ns[tmux: server]: 38813
+
+@start[264122]: 15513537144209
+@start[264123]: 15513541126442
+@start[264126]: 15513548964633
+@start[264127]: 15513550073291
+@start[264128]: 15513550333210
+@start[2040]: 15513550692757
+@start[264129]: 15513551418849
+@start[264130]: 15513556645385
+@start[264131]: 15513557834188
+@start[264124]: 15513563257940
+@start[2087]: 15513564139566
+@start[1639]: 15513570434278
+@start[264086]: 15513584860045
+@start[264125]: 15513584917784
+
+1024
+Attaching 2 probes...
+129809.76 KBytes/sec
+
+
+@ns[systemd-resolve]: 2333
+@ns[tmux: server]: 3166
+@ns[bpftrace]: 3463
+@ns[mv]: 3796
+@ns[stat]: 3797
+@ns[sh]: 3908
+@ns[ipc-static]: 4407
+@ns[gmain]: 4666
+@ns[sed]: 5111
+@ns[tmux]: 5241
+@ns[date]: 5556
+@ns[byobu-status]: 6018
+@ns[upowerd]: 6611
+@ns[gnome-terminal-]: 9167
+@ns[NetworkManager]: 9684
+@ns[gdbus]: 14259
+@ns[gsd-power]: 15055
+@ns[systemd-journal]: 20148
+@ns[gnome-shell]: 24611
+
+@start[264149]: 15516288709930
+
+2048
+Attaching 2 probes...
+221765.44 KBytes/sec
+
+
+@ns[sh]: 2611
+@ns[tmux: server]: 3093
+@ns[sed]: 3740
+@ns[mv]: 4278
+@ns[bpftrace]: 4389
+@ns[stat]: 4407
+@ns[ipc-static]: 4648
+@ns[tmux]: 5019
+@ns[date]: 6148
+@ns[byobu-status]: 6371
+@ns[gmain]: 8611
+@ns[gnome-terminal-]: 10630
+@ns[gnome-shell]: 10648
+@ns[getconf]: 20888
+@ns[systemd-journal]: 25815
+
+@start[264185]: 15518872706961
+
+4096
+Attaching 2 probes...
+352493.07 KBytes/sec
+
+
+@ns[sed]: 3370
+@ns[tmux: server]: 3445
+@ns[bpftrace]: 3740
+@ns[stat]: 3815
+@ns[tmux]: 4722
+@ns[mv]: 4852
+@ns[sh]: 4870
+@ns[ipc-static]: 4962
+@ns[date]: 5241
+@ns[byobu-status]: 6592
+@ns[gnome-shell]: 9889
+@ns[gmain]: 11296
+@ns[gnome-terminal-]: 14610
+@ns[systemd-journal]: 24036
+
+@start[264239]: 15521432684948
+
+8192
+Attaching 2 probes...
+511497.82 KBytes/sec
+
+
+@ns[sh]: 2834
+@ns[tmux: server]: 2907
+@ns[bpftrace]: 3944
+@ns[sed]: 4556
+@ns[stat]: 5018
+@ns[mv]: 5203
+@ns[tmux]: 5426
+@ns[byobu-status]: 5759
+@ns[date]: 6444
+@ns[InputThread]: 6759
+@ns[systemd-resolve]: 7018
+@ns[ipc-static]: 8611
+@ns[gnome-terminal-]: 10889
+@ns[gmain]: 12222
+@ns[getconf]: 18815
+@ns[gnome-shell]: 18963
+@ns[Xorg]: 23481
+@ns[systemd-journal]: 23666
+@ns[NetworkManager]: 24148
+
+@start[264285]: 15523928730377
+
+16384
+Attaching 2 probes...
+502025.26 KBytes/sec
+
+
+@ns[sh]: 2574
+@ns[tmux: server]: 2888
+@ns[bpftrace]: 3722
+@ns[mv]: 3759
+@ns[stat]: 4240
+@ns[tmux]: 5037
+@ns[sed]: 5518
+@ns[date]: 5833
+@ns[byobu-status]: 6981
+@ns[gsd-housekeepin]: 7222
+@ns[gnome-terminal-]: 8685
+@ns[gmain]: 11499
+@ns[ipc-static]: 14463
+@ns[gnome-shell]: 24611
+@ns[gsd-color]: 24888
+@ns[systemd-journal]: 25259
+
+@start[264331]: 15526508696991
+
+32768
+Attaching 2 probes...
+474827.91 KBytes/sec
+
+
+@ns[tmux: server]: 2889
+@ns[sh]: 2963
+@ns[bpftrace]: 3556
+@ns[stat]: 4277
+@ns[sed]: 4333
+@ns[mv]: 4630
+@ns[tmux]: 4685
+@ns[byobu-status]: 5962
+@ns[date]: 6111
+@ns[gnome-shell]: 10093
+@ns[gmain]: 12407
+@ns[gnome-terminal-]: 13648
+@ns[systemd-journal]: 19499
+@ns[getconf]: 20684
+@ns[ipc-static]: 26573
+
+@start[264388]: 15528952723229
+
+65536
+Attaching 2 probes...
+482459.42 KBytes/sec
+
+
+@ns[sh]: 2963
+@ns[tmux: server]: 3166
+@ns[bpftrace]: 3741
+@ns[mv]: 4074
+@ns[sed]: 4814
+@ns[stat]: 5000
+@ns[tmux]: 5148
+@ns[byobu-status]: 6037
+@ns[date]: 6185
+@ns[systemd-resolve]: 7019
+@ns[gnome-shell]: 10426
+@ns[gnome-terminal-]: 10704
+@ns[gmain]: 12166
+@ns[systemd-journal]: 19240
+@ns[NetworkManager]: 26703
+@ns[ipc-static]: 99831
+
+@start[264429]: 15531512696920
+
+131072
+Attaching 2 probes...
+404444.48 KBytes/sec
+
+
+@ns[sh]: 2685
+@ns[tmux: server]: 2907
+@ns[bpftrace]: 3574
+@ns[sed]: 3704
+@ns[stat]: 4222
+@ns[tmux]: 4574
+@ns[mv]: 4611
+@ns[date]: 4648
+@ns[byobu-status]: 5945
+@ns[gnome-terminal-]: 6704
+@ns[gmain]: 10741
+@ns[getconf]: 19981
+@ns[systemd-journal]: 26166
+@ns[rtkit-daemon]: 27277
+@ns[gnome-shell]: 64221
+@ns[ipc-static]: 249883
+
+@start[264481]: 15534084696549
+
+262144
+Attaching 2 probes...
+384452.99 KBytes/sec
+
+
+@ns[sh]: 2760
+@ns[tmux: server]: 2944
+@ns[mv]: 3537
+@ns[bpftrace]: 3797
+@ns[date]: 4370
+@ns[stat]: 4777
+@ns[sed]: 4852
+@ns[tmux]: 4963
+@ns[byobu-status]: 5982
+@ns[gnome-shell]: 10648
+@ns[gnome-terminal-]: 11388
+@ns[gmain]: 12037
+@ns[systemd-journal]: 22851
+@ns[ipc-static]: 552968
+
+@start[264556]: 15536635423750
+@start[264521]: 15536636838011
+
+524288
+Attaching 2 probes...
+343279.77 KBytes/sec
+
+
+@ns[sh]: 2797
+@ns[tmux: server]: 2907
+@ns[bpftrace]: 3648
+@ns[mv]: 4241
+@ns[stat]: 4703
+@ns[tmux]: 5389
+@ns[sed]: 5407
+@ns[byobu-status]: 5815
+@ns[date]: 5944
+@ns[systemd-resolve]: 6852
+@ns[systemd]: 7278
+@ns[gnome-shell]: 10574
+@ns[gmain]: 12259
+@ns[irqbalance]: 16611
+@ns[gnome-terminal-]: 17648
+@ns[systemd-journal]: 18333
+@ns[getconf]: 21426
+@ns[NetworkManager]: 27314
+@ns[ipc-static]: 1242931
+
+@start[264572]: 15539108696012
+
+1048576
+Attaching 2 probes...
+317931.40 KBytes/sec
+
+
+@ns[tmux: server]: 2037
+@ns[awk]: 3315
+@ns[bpftrace]: 3500
+@ns[stat]: 3815
+@ns[sed]: 4241
+@ns[mv]: 4259
+@ns[sh]: 4519
+@ns[df]: 4963
+@ns[byobu-status]: 5092
+@ns[tmux]: 5222
+@ns[date]: 5463
+@ns[gnome-shell]: 9741
+@ns[gmain]: 9981
+@ns[systemd-journal]: 10926
+@ns[gnome-terminal-]: 13870
+@ns[rtkit-daemon]: 21314
+@ns[ipc-static]: 2742375
+
+@start[264652]: 15541659240866
+@start[264653]: 15541664649563
+@start[264656]: 15541671177732
+@start[264658]: 15541672494477
+@start[2040]: 15541672915189
+@start[264657]: 15541674808623
+@start[264660]: 15541676315770
+@start[264659]: 15541678696488
+@start[264661]: 15541682265287
+@start[264654]: 15541685115530
+@start[2087]: 15541685878862
+@start[264611]: 15541688412317
+@start[264655]: 15541688461149
+
+2097152
+Attaching 2 probes...
+306951.39 KBytes/sec
+
+
+@ns[sh]: 3019
+@ns[tmux: server]: 3204
+@ns[bpftrace]: 3630
+@ns[stat]: 4167
+@ns[mv]: 4259
+@ns[tmux]: 5204
+@ns[sed]: 5648
+@ns[date]: 6074
+@ns[byobu-status]: 6518
+@ns[gnome-terminal-]: 7111
+@ns[gmain]: 11685
+@ns[gnome-shell]: 18926
+@ns[getconf]: 21332
+@ns[systemd-journal]: 23740
+@ns[ipc-static]: 5674875
+
+@start[264670]: 15544285024938
+
+4194304
+Attaching 2 probes...
+316474.62 KBytes/sec
+
+
+@ns[sh]: 2518
+@ns[byobu-status]: 2925
+@ns[bpftrace]: 3704
+@ns[tmux]: 3926
+@ns[mv]: 4093
+@ns[stat]: 4222
+@ns[tmux: server]: 4259
+@ns[sed]: 5352
+@ns[date]: 5944
+@ns[gmain]: 6555
+@ns[systemd-resolve]: 9889
+@ns[gnome-shell]: 10963
+@ns[gnome-terminal-]: 12852
+@ns[systemd-journal]: 23555
+@ns[NetworkManager]: 23795
+@ns[ipc-static]: 9619036
+
+@start[264753]: 15546703851070
+@start[1639]: 15546708998847
+@start[264747]: 15546710801210
+@start[264754]: 15546733650857
+@start[264755]: 15546738246741
+@start[264756]: 15546743231597
+@start[264757]: 15546748586629
+@start[264758]: 15546753991789
+@start[264746]: 15546764637540
+@start[2087]: 15546765679569
+@start[264709]: 15546772309865
+
+8388608
+Attaching 2 probes...
+273755.99 KBytes/sec
+
+
+@ns[tmux: server]: 3463
+@ns[bpftrace]: 3741
+@ns[stat]: 3889
+@ns[mv]: 4482
+@ns[tmux]: 5055
+@ns[sh]: 5778
+@ns[date]: 5797
+@ns[byobu-status]: 6685
+@ns[sed]: 7333
+@ns[gnome-shell]: 10926
+@ns[gmain]: 10944
+@ns[gnome-terminal-]: 11555
+@ns[irqbalance]: 15852
+@ns[getconf]: 21777
+@ns[systemd-journal]: 25443
+@ns[rtkit-daemon]: 26277
+@ns[ipc-static]: 22048686
+
+@start[264760]: 15549336702908
+

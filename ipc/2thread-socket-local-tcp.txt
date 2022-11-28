@@ -1,0 +1,48 @@
+1
+228.37 KBytes/sec
+2
+468.69 KBytes/sec
+4
+946.17 KBytes/sec
+8
+1879.01 KBytes/sec
+16
+3774.97 KBytes/sec
+32
+7457.41 KBytes/sec
+64
+14609.18 KBytes/sec
+128
+27973.60 KBytes/sec
+256
+56713.60 KBytes/sec
+512
+106947.32 KBytes/sec
+1024
+185008.22 KBytes/sec
+2048
+281140.95 KBytes/sec
+4096
+400211.38 KBytes/sec
+8192
+600910.42 KBytes/sec
+16384
+641805.53 KBytes/sec
+32768
+731804.30 KBytes/sec
+65536
+662095.25 KBytes/sec
+131072
+757384.10 KBytes/sec
+262144
+805071.00 KBytes/sec
+524288
+604028.78 KBytes/sec
+1048576
+678260.59 KBytes/sec
+2097152
+586148.10 KBytes/sec
+4194304
+547463.14 KBytes/sec
+8388608
+462978.87 KBytes/sec
